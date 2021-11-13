@@ -1,2 +1,3 @@
 # module2-solution
-assignment 2nd week
+Assignment for Week number 2.
+All the file are visible in the "assignment2" Folder
